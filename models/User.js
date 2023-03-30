@@ -15,6 +15,12 @@ const userSchema = new mongoose.Schema({
         trim: true,
         lowercase: true
     },
+
+    image: {
+
+        type: String,
+        default: ""
+    },
     email: {
         type: String,
         match: [/^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/],
