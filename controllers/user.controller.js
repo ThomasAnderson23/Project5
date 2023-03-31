@@ -123,7 +123,7 @@ const signIn = async(req, res) => {
             throw new Error('Email o contraseña incorrecta!')
         }
        
-        res.json({success: true, message: "Your account is login", token: user.generateToken()})
+        res.json({success: true, message: "Your have logged in", token: user.generateToken()})
 
     } catch (error) {
         res.json({success: false, message: error.message})
