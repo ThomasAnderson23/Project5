@@ -2,6 +2,8 @@
 
 # **Cafetería Reveco** 😎
 
+Link: https://backend-reveco.onrender.com/
+
 
 
 ## 1. Introducción 
@@ -37,3 +39,6 @@ Este proyecto fue construido con las siguientes tecnologias:
 - **Nodejs** - JavaScript Runtime
 - **Express** - Framework for Nodejs
 - **Mongoose** - NoSQL Database
+
+## 4. Colaboradores
+Daniela Reveco: https://github.com/DanielaReveco ** Todos los commits se realizaron desde mi Github personal porque Daniela experimentó problemas con su cuenta.
