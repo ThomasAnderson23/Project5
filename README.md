@@ -25,11 +25,11 @@ Funciones de usuario
 - GET /**api/products** - Visualizar todos los productos
 
 Funciones de administrador
-- POST **/api/products **- Creación de usuario
+- POST **/api/products** - Creación de usuario
 - PUT **api/user/:id** - Edición de usuarios
-- DELETE **api/user/:id **- Eliminar usuarios
+- DELETE **api/user/:id** - Eliminar usuarios
 - POST **api/product** - Crear producto
-- DELETE **api/user/:id **- Eliminar producto
+- DELETE **api/user/:id** - Eliminar producto
 - PUT **api/product/:id** - Edición de productos
 
 ## 3. Tecnologias utilizadas 🔙 🔚
