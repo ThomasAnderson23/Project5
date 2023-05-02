@@ -6,39 +6,39 @@ Link: https://backend-reveco.onrender.com/
 
 
 
-## 1. Introducción 
+## 1. Introduction 
 
-Aplicación de Comercio electronico construido mediante una API encargada de la gestión de rutas, manejo de datos y seguridad Autenticación (registro e inicio de sesión del usuario mediante JWT) y Autorización(zona privada donde el usurio puede revisar su perfil) utilzando tecnologías de Node con ExpressJS y para Base de datos MongoDB.
+E-commerce application built using an API for route management, data handling and security Authentication (user registration and login using JWT) and Authorization (private area where the user can check his profile) using Node technologies with ExpressJS and MongoDB database.
 
-## 2. Comenzamos 🏃
+## 2. Let's begin! 🏃
 
-**Instalación del proyecto**
-- Mover a su directorio de proyecto.
-- Clonar el repositorio
-- Mover al directorio de proyecto
-- Instalar las dependencias
+**Project installation**.
+- Move to your project directory.
+- Clone the repository
+- Move to the project directory
+- Install the dependencies
 
-**Endpoints**
+**Endpoints
 
-Funciones de usuario
-- POST **/api/user** - Registrar de usuario
-- GET  **/api/user** - Visualizar perfil  de su usuario
-- POST **/api/user/signin** - Iniciar sesión
-- GET /**api/products** - Visualizar todos los productos
+User functions
+- POST **/api/user** - User registration
+- GET **/api/user** - Display your user profile
+- POST **/api/user/signin** - Log in
+- GET /**api/products** - Display all products
 
-Funciones de administrador
-- POST **/api/products** - Creación de usuario
-- PUT **api/user/:id** - Edición de usuarios
-- DELETE **api/user/:id** - Eliminar usuarios
-- POST **api/product** - Crear producto
-- DELETE **api/user/:id** - Eliminar producto
-- PUT **api/product/:id** - Edición de productos
+Administrator Functions
+- POST **/api/products** - User creation
+- PUT **api/user/:id** - User editing
+- DELETE **api/user/:id** - Delete users
+- POST **api/product** - Create product
+- DELETE **api/user/:id** - Delete product
+- PUT **api/product/:id** - Edit products
 
-## 3. Tecnologias utilizadas 🔙 🔚
-Este proyecto fue construido con las siguientes tecnologias:
+## 3. Technologies used 🔙 🔚
+This project was built with the following technologies:
 - **Nodejs** - JavaScript Runtime
 - **Express** - Framework for Nodejs
 - **Mongoose** - NoSQL Database
 
-## 4. Colaboradores
-Daniela Reveco: https://github.com/DanielaReveco ** Todos los commits se realizaron desde mi Github personal porque Daniela experimentó problemas con su cuenta.
+## 4. Contributors
+Daniela Reveco: https://github.com/DanielaReveco ** All commits were made from my personal Github because Daniela experienced problems with her account.
